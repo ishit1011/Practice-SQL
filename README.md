@@ -5,4 +5,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/ishit1011/Practice-SQL/tree/master/0584-find-customer-referee) |
+## Hash Table
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/ishit1011/Practice-SQL/tree/master/0567-permutation-in-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/ishit1011/Practice-SQL/tree/master/0567-permutation-in-string) |
+## String
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/ishit1011/Practice-SQL/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/ishit1011/Practice-SQL/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->

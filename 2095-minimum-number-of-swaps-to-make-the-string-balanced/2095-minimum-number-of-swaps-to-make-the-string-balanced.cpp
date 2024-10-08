@@ -18,6 +18,6 @@ public:
             }
             stk.pop();
         }
-        return (cntClosed+1)/2;
+        return (cntClosed+1)/2; 
     }
 };
